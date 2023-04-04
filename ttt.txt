@@ -1,0 +1,74 @@
+ <div class="container">
+            <div class=" row listing-six__single-wrap">
+                <!-- gallery part html start -->
+ 
+                   <div class="col-md-3 mt-5">
+                   <div class="gly_img">
+                       <img src="assets/images/dynamic/listing/Rectangle560.jpg"  class="img-fluid w-100" alt="">
+                       <!-- <img src="assets/images/dynamic/listing/Rectangle560.jpg"  alt=""> -->
+                   </div>
+                   </div>
+                   <div class="col-md-3 mt-5">
+                   <div class="gly_img">
+                       <!-- <img src="assets/images/dynamic/listing/Rectangle560.jpg"  class="img-fluid w-100" alt=""> -->
+                       <img src="assets/images/dynamic/listing/Rectangle560.jpg"  alt="">
+                   </div>
+                   </div>
+                   <div class="col-md-3 mt-5">
+                   <div class="gly_img">
+                       <!-- <img src="assets/images/dynamic/listing/Rectangle560.jpg"  class="img-fluid w-100" alt=""> -->
+                       <img src="assets/images/dynamic/listing/Rectangle560.jpg"  alt="">
+                   </div>
+                   </div>
+                   <div class="col-md-3 mt-5">
+                   <div class="gly_img">
+                       <!-- <img src="assets/images/dynamic/listing/Rectangle560.jpg"  class="img-fluid w-100" alt=""> -->
+                       <img src="assets/images/dynamic/listing/Rectangle560.jpg"  alt="">
+                   </div>
+                   </div>
+                   <div class="col-md-3 mt-5">
+                   <div class="gly_img">
+                       <!-- <img src="assets/images/dynamic/listing/Rectangle560.jpg"  class="img-fluid w-100" alt=""> -->
+                       <img src="assets/images/dynamic/listing/Rectangle560.jpg"  alt="">
+                   </div>
+                   </div>
+                   <div class="col-md-3 mt-5">
+                   <div class="gly_img">
+                       <!-- <img src="assets/images/dynamic/listing/Rectangle560.jpg"  class="img-fluid w-100" alt=""> -->
+                       <img src="assets/images/dynamic/listing/Rectangle560.jpg"  alt="">
+                   </div>
+                   </div>
+                   <div class="col-md-3 mt-5">
+                   <div class="gly_img">
+                       <!-- <img src="assets/images/dynamic/listing/Rectangle560.jpg"  class="img-fluid w-100" alt=""> -->
+                       <img src="assets/images/dynamic/listing/Rectangle560.jpg"  alt="">
+                   </div>
+                   </div>
+                   <div class="col-md-3 mt-5">
+                   <div class="gly_img">
+                       <!-- <img src="assets/images/dynamic/listing/Rectangle560.jpg"  class="img-fluid w-100" alt=""> -->
+                       <img src="assets/images/dynamic/listing/Rectangle560.jpg"  alt="">
+                   </div>
+                   </div>
+                   <div class="col-md-3 mt-5">
+                   <div class="gly_img">
+                       <!-- <img src="assets/images/dynamic/listing/Rectangle560.jpg"  class="img-fluid w-100" alt=""> -->
+                       <img src="assets/images/dynamic/listing/Rectangle560.jpg"  alt="">
+                   </div>
+                   </div>
+                   <div class="col-md-3 mt-5">
+                   <div class="gly_img">
+                       <!-- <img src="assets/images/dynamic/listing/Rectangle560.jpg"  class="img-fluid w-100" alt=""> -->
+                       <img src="assets/images/dynamic/listing/Rectangle560.jpg"  alt="">
+                   </div>
+                   </div>
+                   <div class="col-md-3 mt-5">
+                   <div class="gly_img">
+                       <!-- <img src="assets/images/dynamic/listing/Rectangle560.jpg"  class="img-fluid w-100" alt=""> -->
+                       <img src="assets/images/dynamic/listing/Rectangle560.jpg"  alt="">
+                   </div>
+                   </div>
+               
+           <!-- gallery part html end -->
+           </div>
+        </div> 
